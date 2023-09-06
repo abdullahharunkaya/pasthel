@@ -1,4 +1,4 @@
-Pasthek Design App 
+Pasthel Design App 
 The application is a design application in general scope. 
 ![simulator_screenshot_BCB0A39F-6E51-49F0-AE33-63E61862C33E](https://github.com/abdullahharunkaya/pasthel/assets/96665336/897a6028-cd55-47db-8dbd-133c9fcda36b)
 
