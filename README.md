@@ -1,5 +1,8 @@
 Pasthel Design App 
-The application is a design application in general scope. 
+The application is a design application in general scope.
+
+
+
 <img width="326" alt="Ekran Resmi 2023-09-06 16 19 14" src="https://github.com/abdullahharunkaya/pasthel/assets/96665336/897a6028-cd55-47db-8dbd-133c9fcda36b">
 
 
