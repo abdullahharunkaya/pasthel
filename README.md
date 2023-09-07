@@ -1,6 +1,7 @@
 Pasthel Design App 
 The application is a design application in general scope. 
-![simulator_screenshot_BCB0A39F-6E51-49F0-AE33-63E61862C33E](https://github.com/abdullahharunkaya/pasthel/assets/96665336/897a6028-cd55-47db-8dbd-133c9fcda36b)
+<img width="326" alt="Ekran Resmi 2023-09-06 16 19 14" src="https://github.com/abdullahharunkaya/pasthel/assets/96665336/897a6028-cd55-47db-8dbd-133c9fcda36b">
+
 
 Main Consept
 You can make creative designs using ready-made templates within the application. There are items that can be added such as fonts, stickers, API images, API Backgrounds, Pexels images, shapes, emojis and Trendyol Collection Images.
