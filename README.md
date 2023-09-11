@@ -17,9 +17,9 @@ Properties for Font Types
 ![Simulator Screen Shot - iPhone12 - 2023-09-06 at 16 01 46](https://github.com/abdullahharunkaya/pasthel/assets/96665336/de5163d4-82cd-4072-a390-6b3764c41bc1)
 a-) Content
 b-) Color
-c) Alignment
-d-) to you
-e) Spacing
+c-) Alignment
+d-) Size
+e-) Spacing
 f-) Animation
 ![simulator_screenshot_152C2370-EB22-478A-BB6F-AE1C6FE8744B](https://github.com/abdullahharunkaya/pasthel/assets/96665336/8a6234f3-6ce5-4c5b-92e8-a2ee37294864)
 
